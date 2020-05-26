@@ -1,0 +1,14 @@
+{
+    "name": "horror-movies",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "Cindy Olivas",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap-material-design": "^4.1.1"
+    }
+}
